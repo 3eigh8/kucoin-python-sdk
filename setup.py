@@ -11,7 +11,7 @@ setup(
               'kucoin/websocket', 'kucoin/ws_token'],
     license="MIT",
     author='Arthur',
-    author_email="arthur.zhang@kucoin.com",
+    author_email="arthur.zhang@kucoinp.com",
     url='https://github.com/Kucoin/kucoin-python-sdk',
     description="kucoin-api-sdk",
     install_requires=['requests', 'websockets'],
